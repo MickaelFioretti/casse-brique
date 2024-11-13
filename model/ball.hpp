@@ -1,8 +1,8 @@
 #pragma once
 
-class ball{
+class Ball{
     public:
-        ball(
+        Ball(
             unsigned couleur,
             int vitesse_y,
             int vitesse_x,
